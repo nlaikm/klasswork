@@ -9,4 +9,4 @@ radius = float(input("Введите радиус круга: "))
 side = float(input("Введите сторону квадрата: "))
 
 result = compare_areas(radius, side)
-print(result)
+print(result) 
